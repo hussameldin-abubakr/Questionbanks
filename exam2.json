@@ -1,0 +1,30 @@
+{
+    "title": "Exam 2",
+    "questions": [
+        {
+            "question": "What is the capital of Germany?",
+            "choices": ["Paris", "London", "Rome", "Berlin"],
+            "answer": "Berlin"
+        },
+        {
+            "question": "What is 3+3?",
+            "choices": ["2", "3", "6", "5"],
+            "answer": "6"
+        },
+        {
+            "question": "What is the color of grass?",
+            "choices": ["Blue", "Green", "Red", "Black"],
+            "answer": "Green"
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "choices": ["Paris", "Rome", "Berlin", "London"],
+            "answer": "Rome"
+        },
+        {
+            "question": "What is 5+5?",
+            "choices": ["5", "10", "15", "20"],
+            "answer": "10"
+        }
+    ]
+}
