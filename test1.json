@@ -9,7 +9,6 @@
             "question": "What is the capital of Germany?",
             "options": ["London", "Paris", "Berlin", "Madrid"],
             "answer": "Berlin"
-        },
-        // More questions...
+        }
     ]
 }
